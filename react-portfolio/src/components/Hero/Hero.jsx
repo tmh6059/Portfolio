@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Tim</h1>
         <p className={styles.description}>
-            Temporary paragraph text to signify what I want to say about myself.
+            I'm a recent Penn State graduate with experience using Python, C, C++, SQL, Java, React, and NodeJS. <br /> <br/>
             Feel free to reach out at any time if you would like to learn more!
         </p>
         <a href='mailto:timhend2001@gmail.com' className={styles.contactBtn}> Contact Me</a>

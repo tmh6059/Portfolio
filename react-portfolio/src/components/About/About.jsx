@@ -12,24 +12,24 @@ export const About = () => {
                 <img src={getImageUrl("about/aboutImage.png")} alt="Sitting with laptop" className={styles.aboutImage}/>
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+                        <img src={getImageUrl("about/programmerIcon.png")} alt="Programmer icon" />
                         <div classname = {styles.aboutItemText}>
-                            <h3>Frontend Developer</h3>
-                            <p>Filler Text.Filler Text.Filler Text.Filler Text.Filler Text.</p>
+                            <h3>Software Developer</h3>
+                            <p>I'm a software developer with experience in building efficient and optimized code.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+                        <img src={getImageUrl("about/projectCoordinatorIcon.png")} alt="Project Coordinator icon" />
                         <div classname = {styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
-                            <p>Filler Text.Filler Text.Filler Text.Filler Text.Filler Text.</p>
+                            <h3>Project Coordinator</h3>
+                            <p>I have experience leading a team to ensure deliverables are completed and ready on time.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+                        <img src={getImageUrl("about/graduationIcon.png")} alt="Graduation icon" />
                         <div classname = {styles.aboutItemText}>
-                            <h3>UI Designer</h3>
-                            <p>Filler Text.Filler Text.Filler Text.Filler Text.Filler Text.</p>
+                        <h3>Computer Science Graduate</h3>
+                            <p>I'm a recent graduate from Penn State University with a bachelors degree in computer science.</p>
                         </div>
                     </li>
                 </ul>
