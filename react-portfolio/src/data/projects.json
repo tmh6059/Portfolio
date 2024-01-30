@@ -16,7 +16,7 @@
   {
     "title": "Malloc Implementation",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the implement malloc and similar functions from scratch in the most efficient way.",
+    "description": "This project was to implement malloc and similar functions from scratch in the most optimized way.",
     "skills": ["C", "Optimization"],
     "source": "https://drive.google.com/file/d/12Nqr7S6D3ofIeLgViRB-YGiUXnGItv_R/view?usp=sharing"
   }

@@ -8,6 +8,10 @@
       "imageSrc": "skills/C.png"
     },
     {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
       "title": "C++",
       "imageSrc": "skills/C++.png"
     },

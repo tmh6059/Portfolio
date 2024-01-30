@@ -1,30 +1,28 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Software Developer",
+      "organisation": "Penn State College of Medicine",
+      "startDate": "Aug, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": ["Lead a team of 7", "Ported an anesthesiology application to the web"],
+      "imageSrc": "history/pennState.jpg"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Front End Associate",
+      "organisation": "The GIANT Company",
+      "startDate": "May, 2021",
+      "endDate": "Aug, 2021",
+      "experiences": [ "Helped with customer service needs", "Performed transactions"],
+      "imageSrc": "history/giant.jpg"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Shift Manager",
+      "organisation": "Dairy Queen",
+      "startDate": "2017",
+      "endDate": "2019",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+        "Managed 5-6 workers a night", "Maintained a focused and productive work enviornment"],
+      "imageSrc": "history/dairyQueen.jpg"
     }
   ]
   
